@@ -1,0 +1,26 @@
+1 A
+https://www.molex.com/molex/products/part-detail/cable_assemblies/0151330200
+
+3 A
+https://www.molex.com/molex/products/part-detail/cable_assemblies/0151360200
+
+5 A
+https://www.molex.com/molex/products/part-detail/cable_assemblies/0451320401
+
+6.5 A
+https://www.molex.com/molex/products/part-detail/cable_assemblies/0451300201
+
+9 A
+https://www.molex.com/molex/products/part-detail/cable_assemblies/0451350201
+
+13 A
+https://www.molex.com/molex/products/part-detail/cable_assemblies/0369210200
+
+14 A
+https://www.molex.com/molex/products/part-detail/cable_assemblies/0451330201
+
+23 A
+https://www.molex.com/molex/products/part-detail/cable_assemblies/0451360201
+
+50 A
+https://www.molex.com/molex/products/part-detail/cable_assemblies/0369240201

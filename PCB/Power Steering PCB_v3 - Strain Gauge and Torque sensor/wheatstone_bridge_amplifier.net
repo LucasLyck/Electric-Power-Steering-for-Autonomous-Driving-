@@ -1,0 +1,16 @@
+* C:\Users\Jensm\OneDrive\DTU\6. semester\31015 Fagproject - Elektroteknologi\FagProject\PCB\Fag Project Servo v.3.0\wheatstone_bridge_amplifier.asc
+V1 N001 0 4.096
+R2_2 N005 v_ref 1.07Meg
+R4 N005 N006 22
+R1_1 N002 N004 22
+R2_1 N003 N002 1.07Meg
+V2 N004 N006 SINE(0 1000n 1)
+XU1 N005 N002 N001 0 N003 level.2 Avol=1Meg GBW=10Meg Slew=10Meg ilimit=25m rail=0 Vos=0 phimargin=45 en=0 enk=0 in=0 ink=0 Rin=500Meg
+R§v_ref_2 v_ref 0 100k
+R§v_ref_1 N001 v_ref 130k
+;op 5
+* v_out = v_ref + ((R2/R1)*(V2-V1))
+.tran 5
+.lib UniversalOpamps2.sub
+.backanno
+.end

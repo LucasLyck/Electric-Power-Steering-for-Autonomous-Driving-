@@ -1,0 +1,21 @@
+Circuit: * C:\Users\Jensm\OneDrive\DTU\6. semester\31015 Fagproject - Elektroteknologi\FagProject\PCB\Fag Project Servo v.3.0\wheatstone_bridge_amplifier.asc
+
+Direct Newton iteration for .op point succeeded.
+
+Date: Fri May 08 10:51:36 2020
+Total elapsed time: 0.079 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 2111
+traniter = 2094
+tranpoints = 1048
+accept = 1048
+rejected = 0
+matrix size = 10
+fillins = 5
+solver = Normal
+Matrix Compiler1: 656 bytes object code size  0.3/0.1/[0.1]
+Matrix Compiler2: 892 bytes object code size  0.1/0.2/[0.1]
+

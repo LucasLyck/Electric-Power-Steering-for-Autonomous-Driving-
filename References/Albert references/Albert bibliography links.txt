@@ -1,0 +1,10 @@
+https://github.com/AlexeyAB/Yolo_mark
+https://github.com/AlexeyAB/darknet
+https://www.youtube.com/watch?v=FbKLE7uar9Y
+https://bourns.com/pdfs/enc1j.pdf
+http://cocodataset.org/#detection-eval
+https://ddavid.github.io/fsoco/
+https://arxiv.org/abs/1902.02394
+https://teambathracingelectric.com/
+https://emrax.com/e-motors/emrax-228/
+https://www.imeche.org/docs/default-source/1-oscar/formula-student/2019/rules/fs-rules_2019_v1-1.pdf
